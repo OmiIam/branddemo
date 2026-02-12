@@ -1,0 +1,6 @@
+/* Helvetica Neue system font stack for Swiss Design */
+/* Using system fonts for optimal performance */
+
+:root {
+  --font-helvetica: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
